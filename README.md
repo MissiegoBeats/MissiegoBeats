@@ -15,6 +15,9 @@
 
 <img src="https://skillicons.dev/icons?i=java,py,c,r,androidstudio,html,css,js,ts,react,cpp,github,nodejs,bash,php,git&perline=14" />
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"><b> My GitHub stats</b>
 
 <div style="display:flex">
@@ -24,6 +27,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissiegoBeats&hide_border=true&theme=dark" />  
 </div>
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>  
 <br/>  
