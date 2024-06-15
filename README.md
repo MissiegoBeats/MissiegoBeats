@@ -2,8 +2,6 @@
 
 ### My name is Missiego, a software developer from Spain 🇪🇸
 
-<br>
-
 - 📚 Graduated on Informatics Engenieering
   
 - 👾 Always open to develop new projects
@@ -19,8 +17,7 @@
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"><b> My GitHub stats</b>
 
-<div style="display:flex">
-  
+<div style="display:flex, flex-direction:column">
   <img src="https://github-readme-stats.vercel.app/api?username=MissiegoBeats&show_icons=true&count_private=true&hide_border=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissiegoBeats&hide_border=true&theme=dark" />  
 </div>
